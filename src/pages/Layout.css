@@ -1,0 +1,15 @@
+.layout{
+    text-align: center;
+    height: 55px;
+    background-color: rgb(88, 26, 26);
+    width: 100%;
+    margin: 0 auto;
+    
+}
+.navbar{
+    padding: 1rem 0;
+}
+.navbar a{
+    margin: 0 10px;
+    color: #c8ceac;
+}
